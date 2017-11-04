@@ -1,0 +1,10 @@
+.SearchBox {
+}
+
+.SearchBox-text {
+  font-size: 20px;
+}
+
+.SearchBox-submit {
+  display: none;
+}
